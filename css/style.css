@@ -54,6 +54,11 @@ body
   transition: 0.5s;
 }
 
+.container .cards:hover .imgBox
+{
+  transform: scale(1.1);
+}
+
 .container .cards .imgBox img
 {
   position: absolute;
